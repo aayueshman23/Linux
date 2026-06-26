@@ -149,6 +149,5 @@ sudo systemctl status sshd
 
 Open a new terminal on your local machine and test:
 ssh alice@VM_IP_ADDRESS
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
